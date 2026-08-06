@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>컴퓨터소프트웨어학과</title>
+</head>
+
+<body>
+    <h1>컴퓨터소프트웨어학과</h1>
+    <p>AI와 함께 성장하는 개발자</p>
+</body>
+
+</html>
